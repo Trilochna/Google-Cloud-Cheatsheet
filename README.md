@@ -27,8 +27,6 @@ Text descriptions with links are below
 
 Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
 
-Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia) or [@GoogleCloudTech](https://twitter.com/GoogleCloudTech). 
-
 **Note:** This list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public preview, beta or GA.
 
 Fun flashback - [here's the list of products in 2014](https://web.archive.org/web/20140702161745/https://cloud.google.com/products/)
